@@ -1,0 +1,22 @@
+title: Blog of @seran
+tagline: Just another blog
+author: seran 
+# email: sera@gmail.com
+url: https://seran.github.io
+description: Just another blog
+
+favicon: "./assets/favicon.ico"
+
+remote_theme: huangyz0918/moving
+
+moving:
+  avatar_url: "./images/profile.png"
+  about_you: Just another blog
+  date_format: "%b %d"
+  back_to: "Home"
+
+  social_links:
+    github:  seran
+    rss: RSS
+
+highlighter: none
