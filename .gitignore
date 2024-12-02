@@ -1,0 +1,11 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+Gemfile.lock
+
+# Files for local testing
+/_layouts/*
+/_sass/*
+/css/*
