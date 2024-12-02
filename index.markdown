@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="images/profile.jpg">
 
-Hi! I am a **Ph.D. candidate** at [Kristiania University College](https://kristiania.no){:target="_blank"}, Oslo, Norway.
+Hi! I am a **Ph.D. candidate** at [Kristiania University College](https://www.kristiania.no){:target="_blank"}, Oslo, Norway.
 
 
 ## Research Interests
@@ -17,7 +17,7 @@ Hi! I am a **Ph.D. candidate** at [Kristiania University College](https://kristi
 
 ## Current Main Project
 
-* [EvoMaster](www.evomaster.org){:target="_blank"}: a tool for automatically generating system level test cases. For PDFs of publications, see [here](https://github.com/EMResearch/EvoMaster/blob/master/docs/publications.md){:target="_blank"}.
+* [EvoMaster](https://github.com/WebFuzzing/EvoMaster){:target="_blank"}: a tool for automatically generating system level test cases. For PDFs of publications, see [here](https://github.com/EMResearch/EvoMaster/blob/master/docs/publications.md){:target="_blank"}.
 
 ## References
 
