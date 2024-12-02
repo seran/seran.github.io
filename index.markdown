@@ -21,8 +21,8 @@ Hi! I am a **Ph.D. candidate** at [Kristiania University College](https://kristi
 
 ## References
 
-* Andrea Arcuri: Professor, Kristiania University College
-* Man Zhang: Associate Professor, Beihang University
+* [Andrea Arcuri](http://arcuriandrea.org/): Professor, Kristiania University College
+* [Man Zhang](https://www.linkedin.com/in/man-zhang-90513107): Associate Professor, Beihang University
 
 ### Misc
 
