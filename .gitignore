@@ -4,8 +4,3 @@ _site
 .jekyll-metadata
 vendor
 Gemfile.lock
-
-# Files for local testing
-/_layouts/*
-/_sass/*
-/css/*
