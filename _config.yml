@@ -52,7 +52,7 @@ plugins:
 #   - vendor/ruby/
 
 nav:
-  - name: "Resume"
-    link: "resume.pdf"
+  # - name: "Resume"
+  # link: "resume.pdf"
   - name: "Contact"
     link: "contact"
